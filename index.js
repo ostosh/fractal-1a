@@ -1,1 +1,1 @@
-module.exports = require('./dist/1.home.js');
+export default from './src';
